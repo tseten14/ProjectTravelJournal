@@ -11,15 +11,14 @@
 }
 
 body {
-  margin: 0;
   position: absolute;
-  width: 550px;
+  width: 600px;
   height: 704px;
+  margin: 0;
 }
 
 .earth {
   margin-right: 10px;
-
   width: 24px;
   height: 24px;
   left: 213px;
@@ -27,22 +26,52 @@ body {
 }
 nav > small {
   padding: 20px;
-  margin-right: 100px;
-  font-family: "Inter", sans-serif;
   font-size: 20px;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .FullCard {
   display: flex;
   align-items: center;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .Photo {
   box-sizing: border-box;
-  width: 125px;
-  height: 168px;
-  left: 40px;
-  top: 100px;
+  margin: 30px;
+  width: 200px;
+  height: 280px;
   border: 1px solid #000000;
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.date {
+  width: 319px;
+  height: 11px;
+  left: 184px;
+  top: 183px;
+  font-weight: 1000;
+  font-size: 15px;
+  line-height: 12px;
+
+  color: #2b283a;
+}
+.place {
+  width: 326px;
+  height: 40px;
+  left: 184px;
+  top: 136px;
+  color: #2b283a;
+  font-family: "Josefin Sans", sans-serif;
+}
+.description {
+  font-family: "inter";
+}
+.country {
+  font-family: inter;
+  color: red;
+}
+
+.breaker {
+  border-style: groove;
 }
