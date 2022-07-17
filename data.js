@@ -1,16 +1,5 @@
 export default [
   {
-    title: "Mount Fuji",
-    location: "Japan",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-    startDate: "12 Jan, 2021",
-    endDate: "24 Jan, 2021",
-    description:
-      "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-    imageUrl:
-      "https://lh3.googleusercontent.com/7qGDUPijGP5_WDcfMoD6jnbjzutgQWyXfNV_4VPIbj12RJd78LnLeflJ6Wywm_Pk"
-  },
-  {
     title: "Kathmandu",
     location: "Nepal",
     googleMapsUrl:
@@ -33,5 +22,40 @@ export default [
       "Singapore—known variously as the “Lion City” or “Garden City,” the latter for its many parks and tree-lined streets—has also been called “instant Asia” because it offers the tourist an expeditious glimpse into the cultures brought to it by immigrants from all parts of Asia.",
     imageUrl:
       "https://i.natgeofe.com/k/95d61645-a0c7-470f-b198-74a399dd5dfb/singapore-city_square.jpg"
+  },
+  {
+    title: "Kaula Lumpur",
+    location: "Malaysia",
+    googleMapsUrl:
+      "https://www.google.com/maps/place/Kuala+Lumpur,+Federal+Territory+of+Kuala+Lumpur,+Malaysia/data=!4m2!3m1!1s0x31cc49c701efeae7:0xf4d98e5b2f1c287d?sa=X&ved=2ahUKEwix9-fb2f74AhU8EGIAHRsfC_sQ8gF6BAh4EAE",
+    startDate: "9 Dec, 2020",
+    endDate: "2 Jan, 2021",
+    description:
+      "Kuala Lumpur is the capital of Malaysia. Its modern skyline is dominated by the 451m-tall Petronas Twin Towers, a pair of glass-and-steel-clad skyscrapers with Islamic motifs. The towers also offer a public skybridge and observation deck. The city is also home to British colonial-era landmarks such as the Kuala Lumpur Railway Station and the Sultan Abdul Samad Building.",
+    imageUrl: "https://i.ytimg.com/vi/jRSCdgB8kNo/maxresdefault.jpg"
+  },
+  {
+    title: "Niagara Falls",
+    location: "USA",
+    googleMapsUrl:
+      "https://www.google.com/maps/place/Niagara+Falls,+NY/data=!4m2!3m1!1s0x89d363ea29e633b7:0x61975ae4b9c5aab3?sa=X&ved=2ahUKEwiUi7C52v74AhVIGFkFHcU6AFMQ8gF6BQiBARAB",
+    startDate: "Aug 10, 2019",
+    endDate: "Aug 14, 2019",
+    description:
+      "Niagara Falls is a city on the Niagara River, in New York State. It’s known for the vast Niagara Falls, which straddle the Canadian border. In Niagara Falls State Park, the Observation Tower, at Prospect Point, juts out over Niagara Gorge for a view of all 3 waterfalls. Trails from the Niagara Gorge Discovery Center lead to other viewpoints. The Aquarium of Niagara is home to Humboldt penguins, seals and sea lions.",
+    imageUrl:
+      "https://www.niagarafallsstatepark.com/~/media/parks/niagara-falls/niagara-falls-state-park/photos-and-videos/photo-gallery-8.jpg"
+  },
+  {
+    title: "Phucket",
+    location: "Thailand",
+    googleMapsUrl:
+      "https://www.google.com/maps/place/Phuket,+Mueang+Phuket+District,+Phuket+83000,+Thailand/data=!4m2!3m1!1s0x305031fd2d6380a3:0x8df88000bd82f66b?sa=X&ved=2ahUKEwjAkMq32v74AhXNM1kFHY_UAm0Q8gF6BAhuEAE",
+    startDate: "9 Dec, 2007",
+    endDate: "2 Jan, 2007",
+    description:
+      "Phuket City, on Phuket Island, is the capital of Thailand’s Phuket Province. In the Old Town, Thalang Road is lined with colorful 19th-century shophouses and Sino-Portuguese buildings. Built in 1903 by a wealthy tin merchant, Baan Chinpracha mansion has Italian floor tiles, shuttered windows and antique furniture. Set in a 1930s manor, the Thai Hua Museum has exhibits on Phuket’s culture and history.",
+    imageUrl:
+      "https://www.cunard.com/content/dam/cunard/inventory-assets/ports/PHU/PHU.jpg"
   }
 ];

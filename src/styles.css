@@ -3,7 +3,7 @@
 }
 
 .NavBar {
-  background-color: F55A5A;
+  background-color: #2c786c;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,6 +14,8 @@ body {
   position: absolute;
   height: 704px;
   margin: 0;
+  background: #5e87b8;
+  background-image: url("https://geographical.co.uk/wp-content/uploads/somalaya-mountain-range-title.jpg");
 }
 
 .earth {
@@ -33,6 +35,7 @@ nav > small {
   display: flex;
   align-items: center;
   font-family: "Josefin Sans", sans-serif;
+  background-image: url("img_girl.jpg");
 }
 
 .Photo {
@@ -64,9 +67,13 @@ nav > small {
   font-family: "Josefin Sans", sans-serif;
 }
 .description {
-  font-family: "inter";
+  font-family: "Josefin Sans", sans-serif;
 }
 .country {
-  font-family: inter;
+  font-family: "Josefin Sans", sans-serif;
   color: red;
+}
+
+.FinalCard {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2021/06/25/TVLY_SeizeYourSomeday_lpheroB_1680x945_20210623.jpg?impolicy=fcrop&w=400&h=225&q=mediumLowhttps://www.thenation.com/wp-content/uploads/2020/01/nation_travel_1230x400_balkans.jpg");
 }

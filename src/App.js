@@ -6,7 +6,7 @@ import data from "../data";
 export default function App() {
   const CardElement = data.map((data) => {
     return (
-      <div>
+      <div className="FinalCard">
         <Card
           title={data.title}
           location={data.location}
